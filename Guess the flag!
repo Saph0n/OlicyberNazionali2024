@@ -1,0 +1,2 @@
+Va usato questo tool online per il decode del JSFuck: https://codertab.com/JsUnFuck
+In questo tool incollate la riga 51 ossia il sumbit.onclick e vedete che fa un if con la flag.
